@@ -7,6 +7,7 @@ scones = {
 }
 
 scones["Cherry"] = 10
+scones["Banana"] = 130
 
 
 print(scones)
